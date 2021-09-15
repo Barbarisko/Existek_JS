@@ -148,7 +148,7 @@ function print_matrix(a){
 
 //works more visual with big numbers
 // var a = init_isosceles_triangle(create_matrix, 40, 20);
-var a = init_romb(create_matrix, 60, 20);
+var a = init_romb(create_matrix, 30, 25);
 
 print_matrix(a);
 
